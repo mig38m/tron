@@ -1,7 +1,18 @@
 
+dist/
+.publish/
+
+node_modules/
+npm-debug.log
+yarn-error.log
+
+coverage/
+test-results.xml
+
+.DS_Store
 
 
-https://github.com/github/gitignore
+// https://github.com/github/gitignore
 
-https://git-scm.com/book/ru
+// https://git-scm.com/book/ru
 
